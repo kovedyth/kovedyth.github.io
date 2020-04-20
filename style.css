@@ -64,9 +64,9 @@ h4{font-size:20px;
 .line{background:black;
       height:5px;
 }
-@media only and screen(max-width 980px){
+@media and screen(max-width 980px){
  html{zoom:0.4;
-      background:grey;
+      background:lime;
       color:white;
  }
  body{margin-left: 20px;
