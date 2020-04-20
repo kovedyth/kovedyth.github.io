@@ -61,15 +61,10 @@ h4{font-size:20px;
    font-weight:bold;
    margin:0px;
 }
-.line{background:black;
+.line{background: black;
       height:5px;
 }
-@media only and screen (max-width 1400px){
- body{zoom:0.4;
-      background:lime;
-      color:white;
- }
- body{margin-left: 20px;
-      margin-right: 20px;
- }
+@media and screen(max-width: 1600px){
+      body{background:lime;}
+}
 }
