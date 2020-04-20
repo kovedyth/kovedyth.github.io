@@ -1,5 +1,5 @@
 html{width:100;
-     opacity:85%;
+     opacity:88%;
      zoom: 0.74;
 }
 
@@ -65,8 +65,11 @@ h4{font-size:20px;
       height:5px;
 }
 @media only and screen(max-width 980px){
-      html{zoom:0.4;
+ html{zoom:0.4;
       background:grey;
       color:white;
-      }
+ }
+ body{margin-left: 20px;
+      margin-right: 20px;
+ }
 }
