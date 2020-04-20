@@ -65,5 +65,8 @@ h4{font-size:20px;
       height:5px;
 }
 @media only and screen(max-width 768px){
-      html{zoom:0.5;}
+      html{zoom:0.4;
+      background:grey;
+      color:white;
+      }
 }
